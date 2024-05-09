@@ -1,0 +1,32 @@
+Fever
+Name: Rahul Bharadwaj
+Age: 34
+Consultation fee: 500
+Fever
+Name: Ravi Shastri
+Age: 48
+Consultation fee: 600
+Fever
+Name: Mahendra Rajput
+Age: 30
+Consultation fee: 1500
+Fever
+Name: Bhilai Singh
+Age: 46
+Consultation fee: 300
+Fever
+Name: Rahul Tewatia
+Age: 27
+Consultation fee: 200
+Cough
+Name: Vimal Kumar
+Age: 52
+Consultation fee: 500
+Cough
+Name: Naman Jha
+Age: 32
+Consultation fee: 200
+Cough
+Name: Momin Mohsin
+Age: 31
+Consultation fee: 300
